@@ -1,8 +1,8 @@
 # QR-Code-Generator
 
-A simple Python-based QR code generator that creates QR codes for text, URLs, or any arbitrary data. Save your QR codes as image files for easy sharing.
+A simple Python-based QR code generator that creates QR codes for text, URLs, or any arbitrary data. Save your QR codes as image files for easy sharing.<br /><br />
 
-![App Screenshot](https://github.com/user-attachments/assets/73ee52f7-d7b9-4b98-b29b-a33e7994148f)
+<img width="1920" height="1200" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/711a89e1-ebfd-4f20-a587-a0b3dcd7c9bd" />
 
 ---
 
